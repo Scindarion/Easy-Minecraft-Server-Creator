@@ -1,0 +1,7 @@
+{
+    "default_ram": "6G",
+    "default_server_type": "vanilla",
+    "default_version": "",
+    "default_port": "25570",
+    "auto_accept_eula": true
+}
