@@ -1,0 +1,7 @@
+{
+    "default_server_type": "paper",
+    "default_ram": "6G",
+    "default_port": 25565,
+    "download_speed_limit_mbps": 0,
+    "color_output": true
+}
